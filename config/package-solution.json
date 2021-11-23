@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "pnp-sp-crud-client-side-solution",
+    "id": "9f2e877f-8db7-4e2c-9290-f8a42f8414c2",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/pnp-sp-crud.sppkg"
+  }
+}

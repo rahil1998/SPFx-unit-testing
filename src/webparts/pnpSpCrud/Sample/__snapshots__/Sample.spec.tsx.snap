@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Sample component correctly 1`] = `
+<div>
+  <span
+    className="message"
+  >
+    Hello world:
+  </span>
+  <ul>
+    <li>
+      one
+    </li>
+    <li>
+      two
+    </li>
+    <li>
+      three
+    </li>
+  </ul>
+</div>
+`;
